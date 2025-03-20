@@ -1,0 +1,13 @@
+NAME:RAHUL.V
+DOB:03/06/2005
+GENDER: Male
+NATIONALITY: Indian
+LANGUAGE KNOW: Tamil,English
+DEGREE: BCA
+QUALIFICATIONS: Higher Secondary
+HOBBIES: Playing cricket
+		Listing song
+		And a partime code analyzer 
+ADDRESS:65/1,madurai samy madam ,
+		Chennai:600011
+CONTACT: rahul2005v12345@gmail.com
