@@ -1,0 +1,13 @@
+NAME:MANO.S
+DOB:06/05/2006
+GENDER: Male
+NATIONALITY: Indian
+LANGUAGE KNOW: Tamil,English
+DEGREE: BCA
+QUALIFICATIONS: Higher Secondary
+HOBBIES: Playing cricket
+		Listing song
+		And a partime code analyzer 
+ADDRESS:65/1,madurai samy madam ,
+		Chennai:600011
+CONTACT: manosudhar33@gmail.com
